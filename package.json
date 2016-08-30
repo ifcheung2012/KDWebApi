@@ -1,0 +1,23 @@
+{
+  "name": "kdwebapi",
+  "version": "1.0.0",
+  "description": "this is kingdee webapi for k3 cloud!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifcheung2012/KDWebApi.git"
+  },
+  "keywords": [
+    "kingdee",
+    "webapi"
+  ],
+  "author": "ifcheung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ifcheung2012/KDWebApi/issues"
+  },
+  "homepage": "https://github.com/ifcheung2012/KDWebApi#readme"
+}
